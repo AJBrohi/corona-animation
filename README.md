@@ -1,3 +1,16 @@
 # Animation Project: Corona Awareness
-Here we will motivate people to do productive work on quarantine time by our animation.
-zannat
+We tried to motivate people to do productive work on quarantine time by our animation.
+
+# Members:
+			1. Al-Junaed Islam
+			2.
+			3.
+			4.
+			5.
+			6.
+			7.
+			8.
+			9.
+			10.
+
+Tools used: Adobe After Effects, Adobe Illustrator, Adobe Media Encoder, Adobe Premiere Pro
