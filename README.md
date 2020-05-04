@@ -3,11 +3,11 @@ We tried to motivate people to do productive work on quarantine time by our anim
 
 # Members:
 			1. Al-Junaed Islam
-			2. Fahmida Ahmed Hridy
+			2.
 			3.
 			4.
 			5.
-			6.
+			6. Yamin Ara
 			7. MD.Mehedi Hasan
 			8. Saima Rahman Tasnia
 			9. Syed Zuhair Hossain
