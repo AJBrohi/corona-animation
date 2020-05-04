@@ -9,8 +9,8 @@ We tried to motivate people to do productive work on quarantine time by our anim
 			5.
 			6.
 			7. MD.Mehedi Hasan
-			8. Syed Zuhair Hossain
-			9.
+			8. Saima Rahman Tasnia
+			9. Syed Zuhair Hossain
 			10.
 
 Tools used: Adobe After Effects, Adobe Illustrator, Adobe Media Encoder, Adobe Premiere Pro
