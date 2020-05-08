@@ -3,14 +3,14 @@ We tried to motivate people to do productive work on quarantine time by our anim
 
 # Members:
 			1. Al-Junaed Islam
-			2. Fahmida Ahmed Hridy
-			3.
-			4.
-			5.
-			6. Yamin Ara
-			7. MD.Mehedi Hasan
-			8. Saima Rahman Tasnia
-			9. Syed Zuhair Hossain
-			10.
+			2. Afsana Rahman Priya
+			3. Fahmida Ahmed Hridy
+			4. Moumita Das
+			5. Mehedi Antor
+			6. MD.Mehedi Hasan
+			7. Saima Rahman Tasnia
+			8. Syed Zuhair Hossain
+			9. Yamin Ara
+			10. Zahrun Zannat Pian
 
 Tools used: Adobe After Effects, Adobe Illustrator, Adobe Media Encoder, Adobe Premiere Pro
