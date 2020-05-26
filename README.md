@@ -7,7 +7,7 @@ We tried to motivate people to do productive work on quarantine time by our anim
 			3. Fahmida Ahmed Hridy
 			4. Moumita Das
 			5. Mehedi Antor
-			6. MD.Mehedi Hasan
+			6. Mehedi Hasan Shuvon
 			7. Saima Rahman Tasnia
 			8. Syed Zuhair Hossain
 			9. Yamin Ara
